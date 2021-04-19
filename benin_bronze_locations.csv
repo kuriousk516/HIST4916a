@@ -1,0 +1,158 @@
+Museum,City,Province_State,Country,Address,,,
+Ulster_Museum,Belfast,,United_Kingdom,#NAME?,,,
+Barber_Institute_University_of_Birmingham,Birmingham,,United_Kingdom,#NAME?,,,
+City_Museum_and_Art_Gallery,Birmingham,,United_Kingdom,#NAME?,,,
+Brighton_Museum_and_Art_Gallery,Brighton,,United_Kingdom,#NAME?,,,
+Bristol_City_Museum,Bristol,,United_Kingdom,,,,
+Museum_of_Archaeology_and_Anthropology,Cambridge,,United_Kingdom,#NAME?,"Cambridge, Cambridgeshire, England, UK",,UK
+Jesus_College,Cambridge,,United_Kingdom,#NAME?,"Cambridge, Cambridgeshire, England, UK",,UK
+Dumas-Egerton_Trust,Cambridge,,United_Kingdom,#NAME?,"Cambridge, Cambridgeshire, England, UK",,UK
+National_Museums_Scotland,Edinburgh,,United_Kingdom,#NAME?,"City of Edinburgh, Scotland, UK",,UK
+Myers_Museum_Eton_College,Berkshire,,United_Kingdom,#NAME?,"Berkshire, Bracknell Forest, England, UK",,UK
+Glasgow_Art_Gallery,Glasgow,,United_Kingdom,#NAME?,"Glasgow, Glasgow City, Scotland, UK",,UK
+St_Mungos__Museum_of_Religious_Life,Glasgow,,United_Kingdom,#NAME?,"Glasgow, Glasgow City, Scotland, UK",,UK
+Bankfield_Museum,Halifax,,United_Kingdom,#NAME?,"Halifax, NS, Canada",,UK
+East_Yorkshire_Regimental_Collection,Hull,,United_Kingdom,#NAME?,"Hull, Kingston upon Hull, England, UK",,UK
+Hull_Museums,Hull,,United_Kingdom,#NAME?,"Hull, Kingston upon Hull, England, UK",,UK
+Ipwich_Museum,Ipwich,,United_Kingdom,#NAME?,"Ipwich Ct SW, Gwinnett County, GA 30039, USA",,UK
+Leeds_City_Museum,Leeds,,United_Kingdom,#NAME?,"Leeds, West Yorkshire, England, UK",,UK
+Royal_Armouries,Leeds,,United_Kingdom,#NAME?,"Leeds, West Yorkshire, England, UK",,UK
+World_Museums,Liverpool,,United_Kingdom,#NAME?,"Liverpool, England, UK",,UK
+Museum_of_Liverpool,Liverpool,,United_Kingdom,#NAME?,"Liverpool, England, UK",,UK
+British_Museum,London,,United_Kingdom,#NAME?,"London, England, UK",,UK
+Horniman_Museum_London,London,,United_Kingdom,#NAME?,"London, England, UK",,UK
+Lambeth_Palace,London,,United_Kingdom,#NAME?,"London, England, UK",,UK
+Natural_History_Museum,London,,United_Kingdom,,,,
+Royal_Museums_Greenwich,London,,United_Kingdom,#NAME?,"London, England, UK",,UK
+Victoria_and_Albert_Museum,London,,United_Kingdom,#NAME?,"London, England, UK",,UK
+Wellcome_Collection,London,,United_Kingdom,#NAME?,"London, England, UK",,UK
+Maidstone_Museum,Kent,,United_Kingdom,#NAME?,"Kent, England, UK",,UK
+Manchester_Museum_University_of_Manchester,Manchester,,United_Kingdom,#NAME?,"Manchester, Greater Manchester, England, UK",,UK
+Great_North_Museum,Newcastle,,United_Kingdom,#NAME?,"Newcastle upon Tyne, Tyne and Wear, England, UK",,UK
+National_Museum_of_the_Royal_Navy,Porstmouth,,United_Kingdom,#NAME?,,,UK
+Cumberland_House_Museum,Porstmouth,,United_Kingdom,#NAME?,,,UK
+Lancashire_Infantry_Museum_Fulwood_Barracks,Preston,,United_Kingdom,#NAME?,"Preston, Lancashire, England, UK",,UK
+Powell_Cotton_Museum,Birchington-on-Sea,,United_Kingdom,#NAME?,"Birchington-on-Sea, Lyell Rd, Birchington CT7, UK",,UK
+Norfolk_Museum,Norfolk,,United_Kingdom,,,,
+Sainsbury_Centre_University_of_East_Anglia,Norwich,,United_Kingdom,#NAME?,"Norwich, Norfolk, England, UK",,UK
+The_Royal_Albert_Museum,Exeter,,United_Kingdom,#NAME?,"Exeter, Devon, England, UK",,UK
+University_Museums_University_of_Aberdeen,Aberdeen,,United_Kingdom,#NAME?,"Aberdeen, Scotland, UK",,UK
+Admolean_Museum_University_of_Oxford,Oxford,,United_Kingdom,#NAME?,"Oxford, PA 19363, USA",,UK
+The_Rivers_Museum_University_of_Oxford,Oxford,,United_Kingdom,#NAME?,"Oxford, PA 19363, USA",,UK
+City_Art_Gallery,Salford,,United_Kingdom,#NAME?,"Salford, Greater Manchester, England, UK",,UK
+World_Museum_National_Museums_Liverpool,Liverpool,,United_Kingdom,#NAME?,"Liverpool, England, UK",,UK
+Warington_Museum_and_Art_Gallery,Warington,,United_Kingdom,#NAME?,"Summerville, SC 29483, USA",,UK
+Royal_Collection,Windsor,,United_Kingdom,#NAME?,"Windsor Castle, East Tce, Eton SL4 1NJ, UK",,UK
+Baltimore_Museum_of_Art,Baltimore,MD,USA,,,,
+Roche_A_Hearst_Museum_of_Anthropology_University_of_California,Berkeley,CA,USA,,,,
+Museum_of_Fine_Arts,Boston,MA,USA,,,,
+Albright_Knox_Art_Gallery,Buffalo,NY,USA,,,,
+Buffalo_Museum_of_Science,Buffalo,NY,USA,,,,
+"Peabody_Museum,_Harvard_University",Cambridge,MA,USA,,,,
+Art_Institute_of_Chicago,Chicago,IL,USA,,,,
+Field_Museum_of_Natural_History,Chicago,IL,USA,,,,
+Cleveland_Art_Museum,Cleveland,OH,USA,,,,
+Dallas_Art_Museum,Dallas,TX,USA,,,,
+"Hood_Museum_of_Art,_Dartmouth_College",Hanover,NH,USA,,,,
+Denver_Art_Museum,Denver,CO,USA,,,,
+Detroit_Institute_of_Arts,Detroit,MI,USA,,,,
+Indianapolis_Museum_of_Art,Indianapolis,IN,USA,,,,
+University_of_Iowa,Iowa_City,IO,USA,,,,
+Los_Angeles_County_Museum_of_Art,Los_Angeles,CA,USA,,,,
+"Fowler_Museum,_University_of_California",Los_Angeles,CA,USA,,,,
+Milwaukee_Public_Museum,Milwaukee,WI,USA,,,,
+Minneapolis_Institute_of_Arts,Minneapolis,MN,USA,,,,
+Newark_Museum,Newark,NJ,USA,,,,
+Yale_University_Art_Gallery,New_Haven,CN,USA,,,,
+New_Orleans_Museum_of_Art,New_Orleans,LA,USA,,,,
+American_Museum_of_Natural_History,New_York_City,NY,USA,,,,
+Brooklyn_Museum,New_York_City,NY,USA,,,,
+The_Metropolitan_Museum_of_Art,New_York_City,NY,USA,,,,
+Stovall_Museum,Norman,OK,USA,,,,
+Allen_Memorial_Art_Museum,Oberlin,OK,USA,,,,
+Philadelphia_Museum_of_Art,Philadelphia,PA,USA,,,,
+Carnegie_Institute,Pittsburgh,PA,USA,,,,
+University_of_Pennsylvania_Museum_of_Archaeology_and_Anthropology,Philadelphia,PA,USA,,,,
+"Museum_of_Art,_Rhode_Island_School_of_Design",Providence,RI,USA,,,,
+Haffenreffer_Museum_of_Antrhopology,Providence,RI,USA,,,,
+de_Young_Museum,San_Francisco,CA,USA,,,,
+Seattle_Art_Museum,Seattle,WA,USA,,,,
+City_Art_Museum,St_Louis,MO,USA,,,,
+Hirschhorn_Museum_of_Sculpture_Garden,Washington,D.C.,USA,,,,
+"National_Museum_of_African_Art,_Smithsonian_Institution",Washington,D.C.,USA,,,,
+Ethnologisches_Museum_Berlin,Berlin,,Germany,,,,
+Bode-Museum,Berlin,,Germany,,,,
+Städtisches_Museum,Braunschweig,,Germany,,,,
+Ubersee-Museum,Bremen,,Germany,,,,
+Städtisches_Museum,Brunswick,,Germany,,,,
+Rautenstrauch-Joest_Museum,Cologne,,Germany,,,,
+Hessiches_Landesmuseum,Darmstadt,,Germany,,,,
+Dresden_Museum_für_Völkerunde_University_of_Göttingen,Dresden,,Germany,,,,
+Staatliche_Museum_für_Völkerkunde,Dresden,,Germany,,,,
+Museum_der_Weltkulturen,Frankfurt_am_Main,,Germany,,,,
+Museum_Natur_und_Mensch,Freiburg,,Germany,,,,
+Intitut_für_Völkerkunde_University_of_Göttingen,Göttingen,,Germany,,,,
+MKG_Museum_für_Kunst_und_Gewerbe,Hamburg,,Germany,,,,
+MARKK_Museum_am_Rothenbaum_--_Kulturen_und_Künste_der_Welt,Hamburg,,Germany,,,,
+Niedersãchisisches_Landesmuseum,Hannover,,Germany,,,,
+Völkerkundesammlung_der_J._und_E._von_Portheim_Stiftung,Heidelberg,,Germany,,,,
+Roemer-Pelizaeus-Museum,Hildesheim,,Germany,,,,
+Grassi Völkerkundemuseum,Leipzig,,Germany,,,,
+Völkerkundesammlung,Lübeck,,Germany,,,,
+Reiss_Englehorn_Museum,Mannheim,,Germany,,,,
+Johannes_Gutenberg_University,Mainz,,Germany,,,,
+Musuem_Fünf_Kontinente,Munich,,Germany,,,,
+Linden_Museum,Stuttgart,,Germany,,,,
+Museum_der_Stadt_Ulm,Ulm,,Germany,,,,
+Royal_Court_of_Benin,Benin,,Nigeria,,,,
+Collection_of_the_High_Priest_Osemwegie_Ebohon,Benin,,Nigeria,,,,
+National_Museum,Benin_City,,Nigeria,,,,
+National_Museum_Calabar,,,Nigeria,,,,
+National_Museum,Ife,,Nigeria,,,,
+National_Museum,Lagos,,Nigeria,,,,
+Ibadan_University,Nigeria,,Nigeria,,,,
+National_Commision_for_Museums_and_Monuments,,,Nigeria,,,,
+Museo_do_Dondo,Dondo,,Angola,,,,
+South_Australian_Museum,Adelaide,,Australia,,,,
+Australian_Museum,Sydney,,Australia,,,,
+Welmuseum,Vienna,,Austria,,,,
+Oesterreichische_Akademie_der_Wissenschaften,Vienna,,Austria,,,,
+Etnografisch_Museum,Antwerp,,Beligium,,,,
+Musées_royaux_d'art_et_d'histoire,Brussels,,Beligium,,,,
+Royal_Africa_Museum,Tervuren,,Beligium,,,,
+Musée_canadien_de_l'histoire,Gatineau,QB,Canada,,,,
+Musée_des_beaux-arts,Montréal,QB,Canada,,,,
+Royal_Ontario_Museum,Toronto,ON,Canada,,,,
+Museum_of_Anthropology_at_the_University_of_British_Columbia,Vancouver,BC,Canada,,,,
+National_Museum,Copenhagen,,Denmark,,,,
+Moesgaard_Museum,Aarhus,,Denmark,,,,
+Musée_du_quai_Branly,Paris,,France,,,,
+Cluny_Museum,Paris,,France,,,,
+National_Museum_of_Ireland,Dublin,,Ireland,,,,
+Hunt_Museum,Limerick,,Ireland,,,,
+Vatican_Museums,Vatican_City,,Italy,,,,
+National_Museum_of_Ethnology,Osaka,,Japan,,,,
+Tropenmuseum,Amsterdam,,Netherlands,,,,
+Rijksmuseum_van_Oudheden,Leiden,,Netherlands,,,,
+Museum_Volkenkunde,Leiden,,Netherlands,,,,
+Museum_voor_Land_en_Volkenkunde,Rotterdam,,Netherlands,,,,
+Ethnographic_Museum,Oslo,,Norway,,,,
+Sociedade_de_Geografia,Lisbon,,Portugal,,,,
+Museo_de_Grao_Vasco,Viseu,,Portugal,,,,
+Anthropological_Museum_of_Moscow_State_University,Moscow,,Russia,,,,
+Kunstkamera_Museum_of_Ethnology_and_Anthropology,Saint_Petersburg,,Russia,,,,
+Russian_Museum_of_Ehtnography,Saint_Petersburg,,Russia,,,,
+Musée_des_civilisations_noires,Dakar,,Senegal,,,,
+Museum_de_Cultures_del_Món,Barcelona,,Spain,,,,
+Seminario_de_Historia_Primitiva_del_Hombre,Madrid,,Spain,,,,
+Vãrldskultur_Museum,Gothenburg,,Sweden,,,,
+Vãrldskultur_Museum,Stockholm,,Sweden,,,,
+Uppsala_University,Uppsala,,Sweden,,,,
+Museum_fur_Volkenkunde,Basel,,Switzerland,,,,
+Bernisches_Historisches_Museum,Bern,,Switzerland,,,,
+Musée_d'Ethnographie,Geneva,,Switzerland,,,,
+Musee_d'Ethnographie,Neuchatel,,Switzerland,,,,
+Sammlungen_fur_Volkerkunde,St_Gallen,,Switzerland,,,,
+Museum_Rietberg,Zurich,,Switzerland,,,,
+Völkerkundemuseum,Zurich,,Switzerland,,,,
+Louvre,Abu_Dhabi,,United_Arab_Emirates,,,,
